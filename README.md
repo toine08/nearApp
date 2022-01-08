@@ -1,3 +1,8 @@
+Near protocol!
+
+=================
+
+
 Hello this is my first near dapp totaly made with the tutorial in the readme just above this message!
 
 bye !
@@ -8,7 +13,7 @@ bye !
 
 
 
-=================
+
 
 
 
