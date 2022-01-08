@@ -1,4 +1,4 @@
-const CONTRACT_NAME = process.env.CONTRACT_NAME ||'nearApp'
+const CONTRACT_NAME = process.env.CONTRACT_NAME ||'nearapp.toto8.testnet'
 
 function getConfig(env) {
   switch (env) {
